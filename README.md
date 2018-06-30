@@ -2,4 +2,4 @@
 ### A FreeCodeCamp project.
 
 ## About:
-No explanation required here.  
+It renders whatever you are reading right now. No explanation required here.
