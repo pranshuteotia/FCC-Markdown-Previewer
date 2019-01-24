@@ -41,7 +41,6 @@
     box-sizing: border-box;
     padding: 1em;
     border: 2px solid darkblue;
-    max-width: 48vw;
     font-family: sans-serif;
     overflow: auto;
     width: 100%;
